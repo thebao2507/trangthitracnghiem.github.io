@@ -116,7 +116,7 @@ section {
 .main {
     margin: 0;
     padding: 0;
-    height: 100vh;
+    height: 650px;
     background-color: #68727d;
     display: flex;
     justify-content: center;
@@ -223,7 +223,7 @@ section {
 /*phần footer*/
 
 #footer {
-    margin-top: 4px;
+    margin-top: 0;
 }
 
 #footer #senten {
